@@ -1,0 +1,14 @@
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\BillingSystem_Edited.deps.json
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\BillingSystem_Edited.runtimeconfig.json
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\BillingSystem_Edited.runtimeconfig.dev.json
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\BillingSystem_Edited.dll
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.csprojResolveAssemblyReference.cache
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.csproj.CoreCompileInputs.cache
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.AssemblyInfoInputs.cache
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.AssemblyInfo.cs
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\bin\Debug\netcoreapp2.0\BillingSystem_Edited.pdb
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.dll
+c:\users\tij\source\repos\BillingSystem_Edited\BillingSystem_Edited\obj\Debug\netcoreapp2.0\BillingSystem_Edited.pdb

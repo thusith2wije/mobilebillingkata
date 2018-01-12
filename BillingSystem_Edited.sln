@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillingSystem_Edited", "BillingSystem_Edited\BillingSystem_Edited.csproj", "{AC32BBD7-C98D-43D2-8FC3-12110AED3F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests.Tests", "UnitTests.Tests\UnitTests.Tests.csproj", "{A3B01941-0348-4335-B8BC-A1050A52A090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC32BBD7-C98D-43D2-8FC3-12110AED3F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC32BBD7-C98D-43D2-8FC3-12110AED3F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC32BBD7-C98D-43D2-8FC3-12110AED3F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC32BBD7-C98D-43D2-8FC3-12110AED3F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B01941-0348-4335-B8BC-A1050A52A090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B01941-0348-4335-B8BC-A1050A52A090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B01941-0348-4335-B8BC-A1050A52A090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B01941-0348-4335-B8BC-A1050A52A090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523787E9-5D64-4205-BAB7-CCA38F66971A}
+	EndGlobalSection
+EndGlobal
